@@ -5,7 +5,7 @@ The list is based on the [list of postal codes used by the Belgian Postal Servic
 
 ## Support us
 
-[![Image](https://github-ads.s3.eu-central-1.amazonaws.com/belgian-cities-geocoded.jpg)](https://spatie.be/github-ad-click/belgian-cities-geocoded)
+[<img src="https://github-ads.s3.eu-central-1.amazonaws.com/belgian-cities-geocoded.jpg?t=1" width="419px" />](https://spatie.be/github-ad-click/belgian-cities-geocoded)
 
 We invest a lot of resources into creating [best in class open source packages](https://spatie.be/open-source). You can support us by [buying one of our paid products](https://spatie.be/open-source/support-us).
 
